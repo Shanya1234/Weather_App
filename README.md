@@ -55,7 +55,7 @@ Link- https://youtu.be/TdEZC_FiNSM
      ```
 
 4. **Configure Environment Variables**:
-   - Create a `.env` file in the root directory and add the following:
+   - Configure a `api.js` file in the root directory and add the following:
      ```plaintext
      REACT_APP_WEATHER_API_KEY=your_openweather_api_key
      ```
