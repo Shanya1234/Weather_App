@@ -1,6 +1,3 @@
-Here's a **README** file for your project, covering the objective, setup, functionality, and technical details in a user-friendly way:
-
----
 
 # Real-Time Weather Monitoring and Analysis System
 
